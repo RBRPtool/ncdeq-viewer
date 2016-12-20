@@ -5,11 +5,11 @@ var JSON_CONSTANTS = [
   },
   {
     "name": "AGO_URL",
-    "value": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/ArcGIS/rest/services"
+    "value": "https://services2.arcgis.com/kCu40SDxsCGcuUWO/ArcGIS/rest/services"
   },
   {
     "name": "FEATURE_SERVICE_NAME",
-    "value": "RDRBP_AGO6"
+    "value": "RDRBP_AGO"
   },
   {
     "name": "TRA_FEATUREID",
